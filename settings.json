@@ -4,14 +4,18 @@
     "diffEditor.renderSideBySide": true,
     "workbench.settings.useSplitJSON": true,
     "workbench.settings.editor": "json",
-    "debug.console.fontSize": 12,
     "terminal.integrated.fontSize": 12,
     "window.zoomLevel": -1,
-    "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "vscode-icons",
     "gitlens.currentLine.enabled": false,
     "gitlens.views.repositories.files.layout": "tree",
-    "gitlens.advanced.fileHistoryFollowsRenames": false,
     "gitlens.views.fileHistory.avatars": false,
     "workbench.sideBar.location": "left",
+    "debug.toolBarLocation": "floating",
+    "debug.inlineValues": true,
+    // "debug.console.fontFamily": "",
+    "debug.console.fontSize": 12,
+    "terminal.integrated.scrollback": 100000,
+
+
 }
